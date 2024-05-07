@@ -1,0 +1,372 @@
+,Folder,Date,Ticker,Output
+0,20160728_GPN,2016-07-28,GPN,"{
+  ""product_service_sentiment"": {
+    ""supported_concepts"": [
+      {
+        ""sentiment"": ""Growth"",
+        ""description"": ""Anticipating growth in Europe and Canada with new initiatives and joint ventures.""
+      },
+      {
+        ""sentiment"": ""Investment"",
+        ""description"": ""Continuing to invest in e-com omni-channel solutions and preparing for market rollouts.""
+      },
+      {
+        ""sentiment"": ""Opportunity"",
+        ""description"": ""Focused on strategic partnerships and new technology-related businesses in Asia.""
+      }
+    ]
+  },
+  ""financial_performance"": {
+    ""highlights"": [
+      ""Margin expansion"",
+      ""Revenue growth expectations"",
+      ""Synergy acceleration"",
+      ""Interest expense management"",
+      ""Currency headwinds impact""
+    ]
+  },
+  ""future_outlook"": {
+    ""developments"": [
+      ""Accelerated growth potential"",
+      ""Expansion of sales force"",
+      ""Continued investment in growth areas"",
+      ""FX headwinds abatement""
+    ]
+  }
+}"
+1,20170209_K,2017-02-09,K,"{
+  ""product_service_sentiment"": {
+    ""supported_concepts"": [
+      {
+        ""sentiment"": ""Investment"",
+        ""description"": ""Investment into a stronger pull model with focus on big brands like Cheez-It, Pringles, Rice Krispy Treats.""
+      },
+      {
+        ""sentiment"": ""Transition"",
+        ""description"": ""Transition from DSD to warehouse for margin benefit and warehouse capability.""
+      },
+      {
+        ""sentiment"": ""Renovation"",
+        ""description"": ""Renovation of wholesome snack platform with new protein bites and bars, aspiration to cut decline.""
+      }
+    ]
+  },
+  ""financial_performance"": {
+    ""highlights"": [
+      ""Revenue growth management"",
+      ""Improvement in price mix"",
+      ""Margin improvement in snacks"",
+      ""Positive price mix expectations"",
+      ""Transition impact management""
+    ]
+  },
+  ""future_outlook"": {
+    ""developments"": [
+      ""Channel transitions"",
+      ""Marketplace price elasticity"",
+      ""Q4 run rate expectations"",
+      ""Continued renovation and reinvestment""
+    ]
+  }
+}"
+2,20150506_DDD,2015-05-06,DDD,"```json
+{
+  ""product_service_sentiment"": {
+    ""supported_concepts"": [
+      {
+        ""sentiment"": ""Surprise"",
+        ""description"": ""Surprise at abrupt interruption in customer demand and impact of stronger US dollar.""
+      },
+      {
+        ""sentiment"": ""Disappointment"",
+        ""description"": ""Disappointment by deferment in customer investments and performance issues in metal and nylon applications.""
+      },
+      {
+        ""sentiment"": ""Optimism"",
+        ""description"": ""Optimism about consumer revenue growth and expanding healthcare services.""
+      }
+    ]
+  },
+  ""financial_performance"": {
+    ""highlights"": [
+      ""Strong sales growth"",
+      ""Improved cash flow"",
+      ""Balanced sheet tailwind""
+    ]
+  },
+  ""future_outlook"": {
+    ""developments"": [
+      ""Industry level pause"",
+      ""Resumption of customer purchases"",
+      ""Channel partner program enhancements""
+    ]
+  }
+}
+```"
+3,20160728_DLR,2016-07-28,DLR,"{
+  ""product_service_sentiment"": {
+    ""supported_concepts"": [
+      {
+        ""sentiment"": ""Pace"",
+        ""description"": ""Below average scale product signing in the quarter""
+      },
+      {
+        ""sentiment"": ""Selectivity"",
+        ""description"": ""More selective approach to landing the right mix of customers for long-term value""
+      },
+      {
+        ""sentiment"": ""Continued commitment"",
+        ""description"": ""Continued commitment to a disciplined underwriting and pricing regimen""
+      },
+      {
+        ""sentiment"": ""Strong demand"",
+        ""description"": ""Overall demand remains strong, evidenced by strong July performance and healthy pipeline""
+      },
+      {
+        ""sentiment"": ""Optimism"",
+        ""description"": ""Optimistic about potential margin expansion and expecting to resume normal levels in the second half""
+      },
+      {
+        ""sentiment"": ""Growth potential"",
+        ""description"": ""Belief in being uniquely situated to address the continuing secular demand drivers in the cloud industry""
+      },
+      {
+        ""sentiment"": ""Diverse adoption"",
+        ""description"": ""Seeing mass adoption of a diversity of cloud players""
+      }
+    ]
+  },
+  ""financial_performance"": {
+    ""highlights"": [
+      ""Strong cash flow growth"",
+      ""Expected earnings growth"",
+      ""Positive impact of operational performance on future outlook"",
+      ""Improved EBITDA margin potential"",
+      ""Strengthened balance sheet""
+    ]
+  },
+  ""future_outlook"": {
+    ""developments"": [
+      ""Expected margin expansion"",
+      ""Focusing on operational growth and value creation"",
+      ""Continued portfolio diversification"",
+      ""Strengthening balance sheet with successful equity offering""
+    ]
+  }
+}"
+4,20151029_CMS,2015-10-29,CMS,"```json
+{
+  ""product_service_sentiment"": {
+    ""supported_concepts"": [
+      {
+        ""sentiment"": ""Expectation"",
+        ""description"": ""Expectation of building on Bedford site with active permits approved by the DEQ.""
+      },
+      {
+        ""sentiment"": ""Readiness"",
+        ""description"": ""Readiness to move forward with using existing infrastructure on the site.""
+      },
+      {
+        ""sentiment"": ""Agreement"",
+        ""description"": ""Common agreement on starting with retail open access among stakeholders.""
+      }
+    ]
+  },
+  ""financial_performance"": {
+    ""highlights"": [
+      ""Legislation impact"",
+      ""Regulatory debate"",
+      ""Energy law opportunity"",
+      ""Committee alignment"",
+      ""Financial conservatism""
+    ]
+  },
+  ""future_outlook"": {
+    ""developments"": [
+      ""Energy law changes"",
+      ""Regulation clarity"",
+      ""Contract negotiation focus"",
+      ""Conservative financial strategy"",
+      ""Future success anticipation""
+    ]
+  }
+}
+```"
+5,20170426_AVY,2017-04-26,AVY,"```json
+{
+  ""product_service_sentiment"": {
+    ""supported_concepts"": [
+      {
+        ""sentiment"": ""Growth"",
+        ""description"": ""Sales grew by 7% excluding currency and 4% organically.""
+      },
+      {
+        ""sentiment"": ""Expansion"",
+        ""description"": ""Improved operating margin by 40 basis points to 10.1%.""
+      },
+      {
+        ""sentiment"": ""Transformation"",
+        ""description"": ""RBIS shows progress from business transformation, with organic growth of 3%.""
+      }
+    ]
+  },
+  ""financial_performance"": {
+    ""highlights"": [
+      ""Adjusted earnings growth"",
+      ""Improved operating margin"",
+      ""Free cash flow improvement"",
+      ""Share repurchase"",
+      ""Debt repayment""
+    ]
+  },
+  ""future_outlook"": {
+    ""developments"": [
+      ""Guidance increase"",
+      ""Reduced currency headwind"",
+      ""Moderate sales growth expectation"",
+      ""Price increase strategy"",
+      ""Focus on productivity and competitiveness""
+    ]
+  }
+}
+```"
+6,20170501_CAH,2017-05-01,CAH,"```json
+{
+  ""product_service_sentiment"": {
+    ""supported_concepts"": [
+      {
+        ""sentiment"": ""Optimism"",
+        ""description"": ""Leadership team has a strong sense of optimism and accountability.""
+      },
+      {
+        ""sentiment"": ""Discipline"",
+        ""description"": ""Managing the company with discipline and for the long-term.""
+      },
+      {
+        ""sentiment"": ""Surprise"",
+        ""description"": ""Surprised at the generic pharmaceutical pricing impact on gross margin rates.""
+      }
+    ]
+  },
+  ""financial_performance"": {
+    ""highlights"": [
+      ""Growth in Total Revenues"",
+      ""Increase in GAAP and non-GAAP diluted EPS"",
+      ""SG&A and operating earnings decline"",
+      ""Net interest and other expense decrease"",
+      ""Improvement in effective tax rate""
+    ]
+  },
+  ""future_outlook"": {
+    ""developments"": [
+      ""Expected significant cash generation in the fourth quarter"",
+      ""Pharma segment profit decline expectations"",
+      ""Medical segment revenue growth expectations"",
+      ""Plans for Cordis to return to growth in the fourth quarter""
+    ]
+  }
+}
+```"
+7,20160809_SPPI,2016-08-09,SPPI,"{
+  ""product_service_sentiment"": {
+    ""supported_concepts"": [
+      {
+        ""sentiment"": ""Excitement"",
+        ""description"": ""Excited about SPI-2012 entering Phase 3 trials and the potential for a multi-billion-dollar market.""
+      },
+      {
+        ""sentiment"": ""Optimism"",
+        ""description"": ""Optimistic about the potential of poziotinib in Phase 2 trials and its potential to be best-in-class.""
+      },
+      {
+        ""sentiment"": ""Encouraged"",
+        ""description"": ""Encouraged by the progress of Evomela's launch and its advantages over competing drugs.""
+      }
+    ]
+  },
+  ""financial_performance"": {
+    ""highlights"": [
+      ""Strong sales growth"",
+      ""Improved formulary access"",
+      ""Lower expenses"",
+      ""Successful fundraising"",
+      ""Focused on operational efficiency""
+    ]
+  },
+  ""future_outlook"": {
+    ""developments"": [
+      ""SPI-2012 Phase 3 progress"",
+      ""Expected Evomela sales growth"",
+      ""Potential for FDA approval of Qapzola"",
+      ""Aggressive drug development programs""
+    ]
+  }
+}"
+8,20160804_TWI,2016-08-04,TWI,"{
+  ""product_service_sentiment"": {
+    ""supported_concepts"": [
+      {
+        ""sentiment"": ""Maintenance"",
+        ""description"": ""Maintenance scheduled for second half production runs.""
+      },
+      {
+        ""sentiment"": ""Aftermarket sales"",
+        ""description"": ""Driven by under 100 horsepower and aftermarket tires.""
+      },
+      {
+        ""sentiment"": ""Farm equipment trend"",
+        ""description"": ""Change in farming equipment trade-in patterns.""
+      }
+    ]
+  },
+  ""financial_performance"": {
+    ""highlights"": [
+      ""Stable equipment sales"",
+      ""Competitive advantage"",
+      ""Market growth anticipation""
+    ]
+  },
+  ""future_outlook"": {
+    ""developments"": [
+      ""Expansion into new products"",
+      ""Targeting specific market segments"",
+      ""Technological advancements""
+    ]
+  }
+}"
+9,20150728_NATI,2015-07-28,NATI,"{
+  ""product_service_sentiment"": {
+    ""supported_concepts"": [
+      {
+        ""sentiment"": ""Optimism"",
+        ""description"": ""Glad to see record operating income and significant improvement in operating margin in Q2.""
+      },
+      {
+        ""sentiment"": ""Expectation"",
+        ""description"": ""Expecting to discuss operating leverage plan and longer-term business evolution at investor conference.""
+      },
+      {
+        ""sentiment"": ""Value"",
+        ""description"": ""Belief in strong position and delivery of value to a large number of applications for a customer.""
+      }
+    ]
+  },
+  ""financial_performance"": {
+    ""highlights"": [
+      ""Stable revenue expectation"",
+      ""Record operating income guidance"",
+      ""Currency impact on expenses"",
+      ""Natural hedge on currency"",
+      ""Significant headwinds to overcome""
+    ]
+  },
+  ""future_outlook"": {
+    ""developments"": [
+      ""Capital management priorities"",
+      ""Expectation of opportunistic stock repurchase"",
+      ""Stabilized gross margins"",
+      ""Expected decline in non-GAAP effective tax rate for 2016"",
+      ""Investor conference next week""
+    ]
+  }
+}"

@@ -1,0 +1,27 @@
+Please provide a JSON representation processing a financial earnings call. One section should be sentiment surrounding the future performance of the company, with information specific to the financials. 
+Note that the stock goes down after about half of earnings call, so there could also be negative sentiment. Try to be as fair and discerning as possible, focus on if it would beat expectations or not. Try to give a definitive positive or negative sentiment. 
+Give me the general sentiment in one word and a proper description that is longer. The second section should be the key structure. Mention the industry and give an agenda that outlines the structure of the earnings call. 
+The agenda should be a maximum of two words. The third section is key concepts. Mention the industry again (the industries should match up) and give the key topics discussed in the call. 
+
+An example of such output is:
+{
+  "sentiment_performance": {
+    "general_sentiment": "Cautious",
+    "description": "The sentiment surrounding the future performance of the company appears cautious. While there is optimism regarding 
+    cost-saving measures and product launches, concerns about rising expenses and uncertainties in legal matters contribute to a cautious outlook. 
+    Overall, the sentiment leans slightly towards caution rather than outright optimism."
+  },
+  "key_structure": {
+    "industry": "Pharmaceuticals",
+    "agenda": ["Performance Overview", "Product Launches", "Cost Analysis", "Legal Matters", "Research and Development", "Long-term Objectives", "Q&A"]
+  },
+  "key_concepts": {
+    "industry": "Pharmaceuticals",
+    "topics_discussed": ["Financial Performance", "Product Launches", "Cost Management", "Legal Proceedings", "Research and Development", "Long-term Strategy"]
+  }
+}
+
+Don’t give any explanation. Just give the json output. 
+
+The earnings call you have to analyze is:
+(INSERT EARNINGS CALL)
