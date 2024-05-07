@@ -5,7 +5,7 @@ import pandas as pd
 from tqdm import tqdm
 import pickle
 # Set your OpenAI API key
-api_key = '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'
+api_key = "SECRETKEY"
 client = OpenAI()
 
 OpenAI.api_key = os.getenv('OPENAI_API_KEY')
